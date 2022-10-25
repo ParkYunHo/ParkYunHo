@@ -56,13 +56,6 @@
   
 </div><br />
 
-<div align="center" style="text-align:center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkYunHo&layout=compact)](https://github.com/ParkYunHo/github-readme-stats)
-  
-</div><br />
-
-
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/park-yoonho-18615115b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/park-yoonho-18615115b/"/></a>&nbsp
