@@ -52,7 +52,7 @@
 
 <div align="center" style="text-align:center">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkYunHo&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app//api?username=ParkYunHo&show_icons=true&theme=radical)
   
 </div><br />
 
